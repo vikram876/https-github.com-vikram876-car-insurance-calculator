@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-radio {
+  @apply h-4 w-4 text-indigo-600 border-gray-300 focus:ring-indigo-500;
+}
